@@ -11,7 +11,7 @@ from datetime import datetime
 
 
 
-TOKEN = 'NjgxMDg0OTkzNTM1MjEzNTY4.XlJUUg.ptgYha6LQaPr6w_z9Yz6GpoERB0'
+TOKEN = ''
 
 client = commands.Bot(command_prefix='.')
 client.remove_command('help')
