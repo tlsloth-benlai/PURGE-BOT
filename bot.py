@@ -9,6 +9,7 @@ import requests
 from cards import *
 from datetime import datetime
 
+#to add token read
 
 
 client = commands.Bot(command_prefix='.')
